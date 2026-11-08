@@ -1,0 +1,6 @@
+{
+  "name": "Chaves do Bico — AI Creative Studio",
+  "description": "Estúdio profissional de criação publicitária e educativa imobiliária com inteligência artificial para Chaves do Bico em Augustinópolis e região.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
